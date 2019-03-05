@@ -1,0 +1,56 @@
+{
+  "name": "BacaLagi.ID",
+  "short_name": "BacaLagi",
+  "description": "Info Perawatan dan Tips Kesehatan, Beasiswa Pendidikan, Lowongan Kerja 2019, Resep Masakan Kuliner, Tempat Wisata, Kutipan Puisi Inspirasi, Motivasi",
+  "start_url": "http://www.bacalagi.id",
+  "display": "standalone",
+  "theme_color": "#029AE4",
+  "icons": [
+    {
+      "src": "https://2.bp.blogspot.com/-J3GkYk9Q3O4/XH4sn1BzodI/AAAAAAAAQ1c/LC8CNBnhz0Y-9cnL4PPICXh0lFnQmfgbwCLcBGAs/s1600/BacalagiLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-5uXo9zUTogw/XH4sn_i1vgI/AAAAAAAAQ1Y/EGR3BCo60yQlZ3YQNaQV-r9ER7HwJpyAQCLcBGAs/s1600/BacalagiLogo48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QUmKOemNFbI/XH4sod4W2cI/AAAAAAAAQ1k/g6mhi_aaPVMY2Wr-oMMtTcytPtGWxphSwCLcBGAs/s1600/BacalagiLogo72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-HYVVC5Kez94/XH4sou58D1I/AAAAAAAAQ1o/wFuqEfF2VJkrLsr_zgOA5fsLwO2NioZIgCLcBGAs/s1600/BacalagiLogo96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-t4-I5dCkykc/XH4sm4-LVKI/AAAAAAAAQ1I/YXk6jRpNj7ERBctG5j77DZlIrn6V8N1AACLcBGAs/s1600/BacalagiLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-YQeFwC5EeZ8/XH4sm48UNDI/AAAAAAAAQ1Q/u7Dx7nD6BAoRwMzHz39A-VQHSlzFU0SNgCLcBGAs/s1600/BacalagiLogo168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-oVSdLBEjNMw/XH4smwZLlcI/AAAAAAAAQ1M/5FNTNh8_NmkG7PTY7V2zIyRtHR6-YnFOgCLcBGAs/s1600/BacalagiLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-K6aJy5x6Lu0/XH4snj-zm0I/AAAAAAAAQ1U/AQKnKUa8mM0gb102HWHnBB0QmTUB7f_DQCLcBGAs/s1600/BacalagiLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-W7D9H-soO1k/XH4soSUfMEI/AAAAAAAAQ1g/lnUJgOL-UVsC_r7XBHZ5nMb4kn54Y_7xQCLcBGAs/s320/BacalagiLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FFFFFF"
+}
