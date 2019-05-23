@@ -2,7 +2,7 @@
   "name": "BacaLagi.ID",
   "short_name": "BacaLagi",
   "description": "Info Perawatan dan Tips Kesehatan, Beasiswa Pendidikan, Lowongan Kerja 2019, Resep Masakan Kuliner, Tempat Wisata, Kutipan Puisi Inspirasi, Motivasi",
-  "start_url": "http://www.bacalagi.id",
+  "start_url": "https://www.bacalagi.id",
   "display": "standalone",
   "theme_color": "#ea3a7e",
   "icons": [
