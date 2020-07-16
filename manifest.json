@@ -1,7 +1,7 @@
 {
   "short_name": "Blackexpo",
   "name": "Blackexpo.or.id",
-  "description": "Komunitas Kreator Konten Indonesia. Berbagi Informasi Beasiswa Pendidikan, Lowongan Pekerjaan, Wisata, Kuliner dan Tips Perawatan Kesehatan",
+  "description": "Portal BlackExpo Indonesia. Berbagi Informasi Beasiswa Pendidikan, Lowongan Pekerjaan, Wisata, Kuliner dan Tips Perawatan Kesehatan",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-d2vIABmcrlw/XwLEkirZN9I/AAAAAAAAAIQ/sfQKJ_YDBC0261YmtmmjoVtni7kc75m7gCLcBGAsYHQ/s1600/blackexpo32.png",
@@ -62,5 +62,5 @@
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#D14000"
+  "theme_color": "#008B8B"
 }
