@@ -1,0 +1,78 @@
+{
+  "short_name": "Blackexpo",
+  "name": "Blackexpo.or.id",
+  "description": "Portal BlackExpo Indonesia. Berbagi Informasi Beasiswa Pendidikan, Lowongan Pekerjaan, Wisata, Kuliner dan Tips Perawatan Kesehatan",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-n-PP_LKi8io/Xw_0yqbR57I/AAAAAAAAAOQ/GoCZ0jkhtc8LqQB9LC-s5th0kC2FnpeaACLcBGAsYHQ/s1600/blackexpo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-o30VQI_KsuY/Xw_0zILlppI/AAAAAAAAAOU/3HWLfJa9Vr8PDV08BIOy7okwkQkq-KMJQCLcBGAsYHQ/s1600/blackexpo48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-V_-gnqhXW7Q/Xw_0z31Mu0I/AAAAAAAAAOc/jFpwMBjJJ30LMsNJKtSxTqzSfhpYyYRaACLcBGAsYHQ/s1600/blackexpo72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-W405m4FC07Y/Xw_00ssHZuI/AAAAAAAAAOk/vaPTDsQ7hGE1fCpR2DAl3Dju-NcBH3VEwCLcBGAsYHQ/s1600/blackexpo96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ExJJUUdLbAM/Xw_0xb_63vI/AAAAAAAAAOA/QZ_p5HpMxScD9BW7Hu1ZijAp3mOFTv6kwCLcBGAsYHQ/s1600/blackexpo144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QZ2N5Nj8TUk/Xw_0xVYgrWI/AAAAAAAAAOE/4wPm-AY19hsAGJqIC6VGf4pU1HIQCyuEQCLcBGAsYHQ/s1600/blackexpo168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-JmDtfpYJtT4/Xw_0xXBd_pI/AAAAAAAAAN8/VGriNtQOwr8ELzBrEgnZCmEIbxi_lGQowCLcBGAsYHQ/s1600/blackexpo180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-EhUmUAkzIbE/Xw_0yEzR7oI/AAAAAAAAAOI/VlXN6zdey-oFpIZIu_YhACy0zI09PliPwCLcBGAsYHQ/s1600/blackexpo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-i3mqLLi_s4k/Xw_0yRDc08I/AAAAAAAAAOM/tqp8OKjsNIwi6SerGb7DIAkM9kVjFdhgwCLcBGAsYHQ/s1600/blackexpo256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-AP5_8v82uls/Xw_0z8CspkI/AAAAAAAAAOY/wn3UDujPoVY6LdKV_RXsi88sCuAIXvNYQCLcBGAsYHQ/s1600/blackexpo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-3WBkEsr8MQI/Xw_00O9olLI/AAAAAAAAAOg/PmfDyA9u4wUWwY0HOmbBXfk5sn-KjyYLwCLcBGAsYHQ/s1600/blackexpo690.png",
+      "sizes": "690x690",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://www.blackexpo.or.id",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#008B8B"
+}
